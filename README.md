@@ -7,29 +7,14 @@ Sometimes it's helpful to keep track of your web URL.  Consider putting that som
 - Web page URL: https://asuyanto.github.io/tswd-portfolio/
 - This repository: https://github.com/asuyanto/tswd-portfolio/
 
-# Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
-
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hi!  I am Agnes. Currently, I am a MISM-12 student in CMU. I have been working for 8 years before in banking and I figured out that Data Visualization is one of must-have skills in work. So here I am learning DataViz in Telling Stories With Data course.
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
-
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
+I want to learn how to visualize data effectively through conceptual and practical ways. I am not a design person, so I need a fundamental guidelines about DataViz. I also want to learn tableau as one of DataViz tools.
 
 # Portfolio
-
-# Examples
-You can keep this section for stuff from in-class demos or your other work, or remove it. 
+This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.
 
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
