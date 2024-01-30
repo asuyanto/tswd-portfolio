@@ -27,3 +27,13 @@ This part is about another visualization with the same data sources of part-2. T
 	var scriptElement = document.createElement('script');                    
 	scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
+# Methods of Visualization
+1. Bar Chart
+![Bar Chart Example](https://github.com/asuyanto/tswd-portfolio/blob/main/Bar%20Graph%20Example.png)
+A classic and user-friendly method, the bar chart visually compares categories along one axis with measured values on the other. Yet, labeling can be challenging with numerous categories, and simplicity may limit complex data representation.
+2. Histogram
+![Histogram Example](https://github.com/asuyanto/tswd-portfolio/blob/main/Histogram%20Example.png)
+Contrasting with bar charts, histograms display data distribution across a continuous interval or defined period. Ideal for identifying concentration, gaps, or unusual values, histograms excel in illustrating frequency. For example: Showcasing daily website clicks over a week, it swiftly highlights peak and off-peak days.
+
+(Source: https://online.hbs.edu/blog/post/data-visualization-techniques)
