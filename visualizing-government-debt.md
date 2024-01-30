@@ -30,21 +30,33 @@ This part is about another visualization with the same data sources of part-2. T
 
 # Methods of Visualization
 ## 1. Bar Chart
-<img src="https://github.com/asuyanto/tswd-portfolio/blob/main/Bar%20Graph%20Example.png" alt="BarChart">
-Purpose: Visualizes and compares discrete categories with their corresponding measured values.
-Use Cases: Suitable for displaying and comparing individual values or trends within distinct categories.
-Importance of Knowing:
-Helps in presenting straightforward comparisons.
-User-friendly for simple data sets.
-Limitations in handling complex datasets and numerous categories.
+![BarChart](https://github.com/asuyanto/tswd-portfolio/blob/main/Bar%20Graph%20Example.png)
+
+- **Purpose:**
+  Visualizes and compares discrete categories with their corresponding measured values.
+
+- **Use Cases:**
+  Suitable for displaying and comparing individual values or trends within distinct categories.
+
+- **Importance of Knowing:**
+  - Helps in presenting straightforward comparisons.
+  - User-friendly for simple data sets.
+  - Limitations in handling complex datasets and numerous categories.
+
+
 ## 2. Histogram
-<img src="https://github.com/asuyanto/tswd-portfolio/blob/main/Histogram%20Example.png" alt="Histogram">
-Purpose: Illustrates the distribution of data across a continuous interval or defined period.
-Use Cases: Ideal for identifying concentration, gaps, or unusual values within a dataset.
-Importance of Knowing:
-Provides insights into data distribution and frequency.
-Valuable for detecting patterns and outliers.
-For example: Highlights peak and off-peak days by showcasing daily website clicks over a week.
+![Histogram](https://github.com/asuyanto/tswd-portfolio/blob/main/Histogram%20Example.png)
+
+- **Purpose:**
+  Illustrates the distribution of data across a continuous interval or defined period.
+
+- **Use Cases:**
+  Ideal for identifying concentration, gaps, or unusual values within a dataset.
+
+- **Importance of Knowing:**
+  - Provides insights into data distribution and frequency.
+  - Valuable for detecting patterns and outliers.
+  - For example: Highlights peak and off-peak days by showcasing daily website clicks over a week.
 
 Knowing when to use each visualization method is essential for effectively conveying insights from the data. Bar charts are suitable for categorical comparisons, while histograms are in revealing patterns and distributions within continuous datasets. We need to choose the appropriate visualization methods according to specific data analysis needs.
 
