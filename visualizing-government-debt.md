@@ -30,7 +30,7 @@ This part is about another visualization with the same data sources of part-2. T
 
 # Methods of Visualization
 ## 1. Bar Chart
-![BarChart](https://github.com/asuyanto/tswd-portfolio/blob/main/Bar%20Graph%20Example.png)
+![BarChart](BarGraphExample.png)
 
 - **Purpose:**
   Visualizes and compares discrete categories with their corresponding measured values.
@@ -45,7 +45,7 @@ This part is about another visualization with the same data sources of part-2. T
 
 
 ## 2. Histogram
-![Histogram](https://github.com/asuyanto/tswd-portfolio/blob/main/Histogram%20Example.png)
+![Histogram](HistogramExample.png)
 
 - **Purpose:**
   Illustrates the distribution of data across a continuous interval or defined period.
