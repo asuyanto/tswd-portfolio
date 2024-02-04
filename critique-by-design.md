@@ -2,9 +2,12 @@
 
 # Data Visualization from MakeoverMonday
 ![GraphFromMakeoverMonday](index-of-cereal-production-yield-and-land-use.png)
+This is the original graph that I got from MakeoverMonday. I think the graph is not perfect and need to be redesigned. I tried to redesign the graph with several steps, which skectch out my own data viz (wireframe solution), test the solution by getting feedback from readers, and recreate my data viz. I will explain those processes in more detail in the following parts.
 
 # Solution Wireframe
 ![Wireframe](Wireframe_critiquebydesign.jpeg)
+This is my first solution. The context that I want to bring here using those dataset is a great improvement in food production, specificly cereal, to supply or feed the growing population without using more agricultural land. The idea is to emphasize how awesome the agricultural improvements have gone so far by comparing the last 60 years data.
+Therefore, I chose 3 graphs (cereal production, population, and land) to be displayed. The y-axis that I used is the growth in percentage since those 3 graphs have different units. So it will give the audience perspective of how the growing population can be fed by the following food production enhancement, with the limited resources (in this case, land). I chose gray color of population data because I want to emphasize the gap between cereal production and land used. I tried to make more contextual title too, instead of giving redundant information (as the original version).
 
 # Solution Test
 # Recreated Data Visualization
