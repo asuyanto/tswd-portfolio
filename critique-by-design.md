@@ -33,4 +33,3 @@ Throughout those suggestions, I adjusted the title to be more contextual, added 
   vizElement.parentNode.insertBefore(scriptElement, vizElement);               
 </script>
 
-# Summary
