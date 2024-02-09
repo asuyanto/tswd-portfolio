@@ -1,12 +1,9 @@
 | [home page](https://asuyanto.github.io/tswd-portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
-
 # Outline
 > Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
  
-Text here...
+The main idea of this project is how we can fight hungers through data analytics. The story will begin with a background of dramatic rise of hunger/ undernourishment over the years. I want to emphasize the urgency of why we should fight the hunger through explaining the frightening hunger cycle that will affect future generations. Furthermore, I intend to help the audience visualize the regions most affected by hunger using a map that illustrates this. Additionally, I plan to draw attention to another aspect of the issue with a map that shows food waste. By comparing those maps, we get a surprising insight that the regions with the most severe hunger are often the same ones with the highest levels of food waste. Moving forward, I will tell more about the composition of the food losses accros the food value chain. According to the graph, most food losses happened on food processing and distribution stages. Lastly, I call to action data analysts to engage with this challenge by applying data-driven insights to key aspects of the problem.
 
 > A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
 
@@ -37,7 +34,6 @@ Text here...
 </script>
 
 
-
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
@@ -45,12 +41,13 @@ Text here...
 
 | Name | URL | Description |
 |------|-----|-------------|
-|  Hunger & Undernourishment   | https://ourworldindata.org/hunger-and-undernourishment  |             |
+|  Hunger & Undernourishment Data | https://ourworldindata.org/hunger-and-undernourishment  |             |
 |  Hunger Cycle | https://www.mercycorps.org/blog/facts-global-hunger#:~:text=Hunger%20is%20a%20perilous%20cycle,or%20to%20improve%20their%20lives. | |
-|   Food Waste   |  https://www.un.org/en/observances/end-food-waste-day |             |
-|  Reducing Food Waste Through Data-Driven Insights  |   https://www.grocerydive.com/spons/leveraging-data-analytics-for-enhanced-food-traceability-and-waste-reductio/692938/#:~:text=Reducing%20Food%20Waste%20Through%20Data,shelf%20life%20and%20managing%20inventory.  |             |
+|   Food Losses & Waste   |  https://www.un.org/en/observances/end-food-waste-day |             |
+| Agricultural Losses Across Value Chain | https://unctad.org/system/files/official-document/dtlstict2017d5_en.pdf | |
+|  Reducing Food Losses & Waste Through Data-Driven Insights  |   https://www.grocerydive.com/spons/leveraging-data-analytics-for-enhanced-food-traceability-and-waste-reductio/692938/#:~:text=Reducing%20Food%20Waste%20Through%20Data,shelf%20life%20and%20managing%20inventory.  |             |
 
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
 
-Text here...
+I am going to use Tableau and Shorthand for this project deliverables.
