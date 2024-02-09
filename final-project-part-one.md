@@ -41,14 +41,12 @@ Text here...
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
-[World_Hunger_Trends](https://ourworldindata.org/hunger-and-undernourishment)
-
 > A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
 
 | Name | URL | Description |
 |------|-----|-------------|
-|      |     |             |
-|      |     |             |
+|   Hunger & Undernourishment   |  https://ourworldindata.org/hunger-and-undernourishment  |             |
+|   Food Waste   |  https://www.un.org/en/observances/end-food-waste-day   |             |
 |      |     |             |
 
 # Method and medium
