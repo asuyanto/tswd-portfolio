@@ -45,9 +45,10 @@ Text here...
 
 | Name | URL | Description |
 |------|-----|-------------|
-|   Hunger & Undernourishment   |  https://ourworldindata.org/hunger-and-undernourishment  |             |
-|   Food Waste   |  https://www.un.org/en/observances/end-food-waste-day   |             |
-|      |     |             |
+|  Hunger & Undernourishment   | https://ourworldindata.org/hunger-and-undernourishment  |             |
+|  Hunger Cycle | https://www.mercycorps.org/blog/facts-global-hunger#:~:text=Hunger%20is%20a%20perilous%20cycle,or%20to%20improve%20their%20lives. | |
+|   Food Waste   |  https://www.un.org/en/observances/end-food-waste-day |             |
+|  Reducing Food Waste Through Data-Driven Insights  |   https://www.grocerydive.com/spons/leveraging-data-analytics-for-enhanced-food-traceability-and-waste-reductio/692938/#:~:text=Reducing%20Food%20Waste%20Through%20Data,shelf%20life%20and%20managing%20inventory.  |             |
 
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
