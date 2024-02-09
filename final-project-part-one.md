@@ -50,4 +50,4 @@ Text here...
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
 
-I am going to use Tableau and Shorthand for this project deliverables. I probably insert my own graphs over there.
+I am going to use Tableau and Shorthand for this project deliverables.
