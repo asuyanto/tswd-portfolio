@@ -3,16 +3,15 @@
 # Outline
 > Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
 
-The primary objective of this project is to understand the powerful impact that data analytics can have in the battle against hunger. Achieving zero hunger is one of the United Nations' Sustainable Development Goals, a target that requires the collaboration of all sectors. My personal interest lies in data analytics, and I am keen to explore how it can contribute to solving this issue, specifically identifying the areas where analytics can play a significant role.
+The primary objective of this project is to fight against hunger through data analytics. Achieving zero hunger is one of the United Nations' Sustainable Development Goals, a target that requires the collaboration of all sectors. My personal interest lies in data analytics, and I am keen to explore how it can contribute to solving this issue, specifically identifying the areas where analytics can play a significant role.
 
 > A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
 
-I will start with the background of the dramatic increase in hunger and undernourishment over the years. I aim to stress the urgency of addressing hunger by explaining the frightening cycle of hunger that could impact future generations. I also plan to show the audience the areas most affected by hunger with a heatmap that highlights these regions. In addition, I want to focus on the contradicted idea of food loss/ waste in regions that suffer the most from hunger, specifically looking at where the waste occurs along the food supply chain. I will then provide a broader view of food loss and waste on a global scale to identify which stages need more attention. The two graphs suggest that most food loss occurs between the post-harvest and consumption stages. I will discuss how data analytics can optimize each stage of the food supply chain to help reduce food loss. With this, I call on data analysts to use data-driven insights to decrease food losses, especially in the post-harvest and distribution stages, and I recommend the general public to cut down on our food waste during the consumption stage.
+I will start with the background of the dramatic increase in hunger and undernourishment over the years. I aim to stress the urgency of addressing hunger by explaining the frightening cycle of hunger that could impact future generations. I also plan to show the audience the areas most affected by hunger with a heatmap that highlights these regions. In addition, I want to focus on the contradicted idea of food loss/ waste in regions that suffer the most from hunger, specifically looking at where the waste occurs along the food supply chain. I will then provide a broader view of food loss and waste on a global scale to identify which stages need more attention. The two infographs suggest that most food loss occurs between the post-harvest and consumption stages. I will discuss how data analytics can optimize each stage of the food supply chain to help reduce food loss. With this, I call on data analysts to use data-driven insights to decrease food losses, especially in the post-harvest and distribution stages, and I recommend the general public to cut down on our food waste during the consumption stage.
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
-Text here...
 <div class='tableauPlaceholder' id='viz1707495466285' style='position: relative'><noscript><a href='#'><img alt='World Hunger Continues Dramatic Rise ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Hu&#47;HungerRise&#47;Sheet2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='HungerRise&#47;Sheet2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Hu&#47;HungerRise&#47;Sheet2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
  var divElement = document.getElementById('viz1707495466285');                    
@@ -22,6 +21,9 @@ Text here...
  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
+Dramatic rise of hunger affects significantly to the future generations, as the Cycle of hunger:
+![HungerCycle](HungerCycle.png)
 
 <div class='tableauPlaceholder' id='viz1707494854393' style='position: relative'><noscript><a href='#'><img alt='Undernourishment Map ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Q4&#47;Q4F8M4C4M&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;Q4F8M4C4M' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Q4&#47;Q4F8M4C4M&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
 <script type='text/javascript'>                    
@@ -42,6 +44,13 @@ Text here...
  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; 
  vizElement.parentNode.insertBefore(scriptElement, vizElement);              
 </script>
+
+Globally, 13 percent of food produced is lost between harvest and retail, while an estimated 17 percent of total global food production is wasted in consumption (UN, 2023)
+
+Most food losses and waste happen between post-harvest and consumption. Data analytics can help through:
+1. Product shelf-life monitoring
+2. Streamlined inventory management
+3. Proactive stock rotation
 
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
