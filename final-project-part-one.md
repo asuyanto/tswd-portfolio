@@ -9,6 +9,9 @@ The primary objective of this project is to fight against hunger through AI impl
 
 I will start with the background of the dramatic increase in hunger and undernourishment over the years. I aim to stress the urgency of addressing hunger by explaining the frightening cycle of hunger that could impact future generations. I also plan to show the audience the areas most affected by hunger with a heatmap that highlights these regions. In addition, I want to focus on the idea of how food loss/ waste happen in region that suffer the most from hunger, specifically looking at where the waste occurs along the food supply chain. I will then provide a broader view of food loss and waste on a global scale to identify which stages need more attention. The infographs suggest that most food loss occurs between on-farm and distribution stages. I will discuss how data analytics can optimize each stage of the food supply chain to help reduce food loss. With this, I call to use data-driven insights (AI) to decrease food losses, especially in the on-farm until distribution stages, and I will recommend the general public to cut down on our food waste during the consumption stage.
 
+Here's my story arc:
+![StoryArc](StoryArc.PNG)
+
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
