@@ -72,14 +72,14 @@ A good news come up. The crucial value chain stages can be solved by AI. There i
 
 | Name | URL | Description |
 |------|-----|-------------|
-|  Hunger & Undernourishment Data | https://ourworldindata.org/hunger-and-undernourishment  |             |
-|  Hunger Cycle | https://www.mercycorps.org/blog/facts-global-hunger#:~:text=Hunger%20is%20a%20perilous%20cycle,or%20to%20improve%20their%20lives. | |
-| A Global Hunger Crisis | https://www.wfp.org/stories/wfp-glance#:~:text=Up%20to%20783%20million%20people,next%20meal%20is%20coming%20from. | |
-| Wasted Leftovers | https://www.theworldcounts.com/challenges/people-and-poverty/hunger-and-obesity/food-waste-statistics | |
-| Africa's Food Losses Across Value Chain | https://unctad.org/system/files/official-document/dtlstict2017d5_en.pdf | |
-|   Food Losses & Waste   |  https://www.un.org/en/observances/end-food-waste-day |             |
-| AI implementation in Agriculture | https://www.sciencedirect.com/science/article/pii/S258972172030012X#s0125 | |
-|  Reducing Food Losses & Waste Through Data-Driven Insights  |   https://www.grocerydive.com/spons/leveraging-data-analytics-for-enhanced-food-traceability-and-waste-reductio/692938/#:~:text=Reducing%20Food%20Waste%20Through%20Data,shelf%20life%20and%20managing%20inventory.  |             |
+|  Hunger & Undernourishment Data | https://ourworldindata.org/hunger-and-undernourishment  | Global hunger data in prevalence units  |
+|  Hunger Cycle | https://www.mercycorps.org/blog/facts-global-hunger#:~:text=Hunger%20is%20a%20perilous%20cycle,or%20to%20improve%20their%20lives. | A reference of hunger cycle |
+| A Global Hunger Crisis | https://www.wfp.org/stories/wfp-glance#:~:text=Up%20to%20783%20million%20people,next%20meal%20is%20coming%20from. | The number of hungers instead of prevalence |
+| Wasted Leftovers | https://www.theworldcounts.com/challenges/people-and-poverty/hunger-and-obesity/food-waste-statistics | The number of food waste refrence|
+| Africa's Food Losses Across Value Chain | https://unctad.org/system/files/official-document/dtlstict2017d5_en.pdf | Africa food losses distrubution across food value chain |
+|   Food Losses & Waste   |  https://www.un.org/en/observances/end-food-waste-day |  Global data of food losses |
+| AI implementation in Agriculture | https://www.sciencedirect.com/science/article/pii/S258972172030012X#s0125 | The success story of AI implementation in agriculture (boost crops production)|
+|  Reducing Food Losses & Waste Through Data-Driven Insights  |   https://www.grocerydive.com/spons/leveraging-data-analytics-for-enhanced-food-traceability-and-waste-reductio/692938/#:~:text=Reducing%20Food%20Waste%20Through%20Data,shelf%20life%20and%20managing%20inventory.  | How data science has a crucial role in food supply chain |
 
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
