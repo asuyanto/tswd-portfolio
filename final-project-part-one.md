@@ -39,7 +39,10 @@ Let's take a look the hunger map:
  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
-According to the hunger map, Africa suffers hunger the most. Let's see further about food losses and waste along the food supply chain in Africa. Here the graph:
+
+Up to 783 million people – one in ten of the world's population – suffer from chronic hunger. WFP estimates – from 78 of the countries where we work and where data is available – that more than 333 million people are facing acute levels of food insecurity in 2023, and do not know where their next meal is coming from. But, roughly a third of the world’s food is wasted. That’s about 1.3 billion tons a year. It is sufficient to feed > twice the number of global undernourished people!
+
+Based on the prior hunger map, Africa suffers hunger the most and let's see further about food losses and waste along the food supply chain in Africa. Here the graph:
 <div class='tableauPlaceholder' id='viz1707525273289' style='position: relative'><noscript><a href='#'><img alt='Africa Food Losses Distribution ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Af&#47;AfricaFoodLosses&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='AfricaFoodLosses&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Af&#47;AfricaFoodLosses&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                   
  var divElement = document.getElementById('viz1707525273289');               
@@ -59,7 +62,11 @@ We can understand that most food losses and waste happen between on-farm and dis
 4. Product shelf-life monitoring
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
+> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data.
+
+I start with the increased hunger trends data from "Hunger & Undernourishment Data". Next, I created hunger cycle diagram by following "Hunger Cycle" references. I hope the audience get the urgency to stop the hunger cycle and fight hunger together. Then, I show the hunger map, how the hungers distributes across countries, by using "Hunger & Undernourishment Data" dataset in a different typograph. To give a deeper understanding, I provide the number of global hunger from 'A Global Hunger Crisis' reference and contradict the data with the number of food wasted from  'Wasted Leftovers' reference.
+Moving forward, I will drag the audience focus to the region that suffers hunger the most, which is Africa. Next, we also analyze the food losses/ waste on that region from 'Africa's Food Losses Across Value Chain' reference. Furthermore, to emphasize on which food value chain should be maintained in general, I refer to 'Food Losses & Waste' data.
+A good news come up. The crucial value chain stages can be solved by AI. There is a success story of 'AI Implementation in Agriculture'. Furthermore, I provide another opportunities for AI to take actions on these parts that coming from Reducing 'Food Losses & Waste Through Data-Driven Insights' reference. I hope those opportunities and success story inspire Data Scientist and ML engineers to involve in fighting this hunger.
 
 > A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
 
@@ -67,6 +74,8 @@ We can understand that most food losses and waste happen between on-farm and dis
 |------|-----|-------------|
 |  Hunger & Undernourishment Data | https://ourworldindata.org/hunger-and-undernourishment  |             |
 |  Hunger Cycle | https://www.mercycorps.org/blog/facts-global-hunger#:~:text=Hunger%20is%20a%20perilous%20cycle,or%20to%20improve%20their%20lives. | |
+| A Global Hunger Crisis | https://www.wfp.org/stories/wfp-glance#:~:text=Up%20to%20783%20million%20people,next%20meal%20is%20coming%20from. | |
+| Wasted Leftovers | https://www.theworldcounts.com/challenges/people-and-poverty/hunger-and-obesity/food-waste-statistics | |
 | Africa's Food Losses Across Value Chain | https://unctad.org/system/files/official-document/dtlstict2017d5_en.pdf | |
 |   Food Losses & Waste   |  https://www.un.org/en/observances/end-food-waste-day |             |
 | AI implementation in Agriculture | https://www.sciencedirect.com/science/article/pii/S258972172030012X#s0125 | |
