@@ -58,6 +58,7 @@ Whereas, globally, 13 percent of food produced is lost between harvest and retai
 
 We can understand that most food losses and waste happen between on-farm and distribution. AI can help to answer those challenges through:
 1. AI-based advisory increased 30% crop production (the success story)
+   ![AIimplementationSuccessStory](AI-basedAdvisories.png)
 2. Streamlined inventory management (next action)
 3. Proactive stock rotation (next action)
 4. Product shelf-life monitoring (next action)
