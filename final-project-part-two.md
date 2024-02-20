@@ -19,9 +19,11 @@ I identified 3 individuals to interview are an IT student, a professional in sup
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+|   Targeted Audience Clarity  |         What do you think the audience of this story?         |
+|   Emotional Flow   |         How was your feeling while view and read this article? Desperate or Enthusiastic?         |
+|   Data viz effectiveness   |         Any data viz that hard to interpret?         |
+|   Call to action Clarity   |         What do you think the audience would do next?         |
+|   Next Improvement   |         Any suggestions to improve how the story to be told?         |
 
 
 Text here!
@@ -41,7 +43,6 @@ Text here!
 # Identified changes for Part III
 > Document the changes you plan on implementing next week to address any issues identified.  
 
-Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
