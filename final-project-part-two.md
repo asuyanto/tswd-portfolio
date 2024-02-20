@@ -10,12 +10,12 @@ I did my wireframe on shorthand. Here's the link: https://preview.shorthand.com/
 ## Target audience
 > Include your approach to identifying representative individuals, and who you hope to reach with your story.
 
-I hope my target audience is technologist in AI and/or food production.
+I hope my target audience are technologists in AI, agriculture, and supply chain.
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
+> List the goals from your research, and the questions you intend to ask.
 
-Text here!
+I identified 3 individuals to interview are an IT student, a professional in supply chain, and a sociologist because I want to know the view from technology feasibility, the implementation in supply chain, and also the social impacts.
 
 | Goal | Questions to Ask |
 |------|------------------|
