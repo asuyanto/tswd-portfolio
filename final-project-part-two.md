@@ -45,5 +45,5 @@ Based on the insights from my three interview, here's what I will do on next par
 | Persuasive & clarity of call to action | Breakdown the action list, add the possible impacts/ benefits, embed AI video on farm |
 
 
-To summarize, I did my best in wireframing the story from diverse data that I searched. Tie-up them into interesting story is pretty hard for me. I am happy that throughout the interviews some of my messages inside the story are well delivered. Moreover, the interviews do give me a lot of insights from different perspectives to improve my data viz. How I pick my interviews is really matter for me. Some other things that I have ever thought before are comes up to me. I will improve a lot on the next part!
+To summarize, I did my best in wireframing the story from diverse data that I searched. Tie-up them into interesting story is pretty hard for me. I am happy that throughout the interviews some of my messages inside the story are well delivered. Moreover, the interviews did give me a lot of insights from different perspectives to improve my data viz. How I pick my interviews is really matter for me. Some other things that I had never thought before were comes up to me. I will improve a lot on the next part!
 
