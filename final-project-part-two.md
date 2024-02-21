@@ -15,15 +15,15 @@ I hope my target audience are technologists in AI, agriculture, and supply chain
 ## Interview script
 > List the goals from your research, and the questions you intend to ask.
 
-I identified 3 individuals to interview are an IT student, a professional in supply chain, and a sociologist because I want to know the view from technology feasibility, the implementation in supply chain, and also the social impacts.
+I identified 3 individuals to interview are an IT student, a professional in supply chain, and a social scientist because I want to know the view from technology feasibility, the implementation in supply chain, and also the social perspectives.
 
 | Goal | Questions to Ask |
 |------|------------------|
-|   Targeted Audience Clarity  |         What do you think the audience of this story?         |
-|   Emotional Flow   |         How was your feeling while view and read this article? Desperate or Enthusiastic?         |
-|   Data viz effectiveness   |         Any data viz that hard to interpret?         |
-|   Call to action Clarity   |         What do you think the audience would do next?         |
-|   Next Improvement   |         Any suggestions to improve how the story to be told?         |
+|   Targeted Audience Clarity  | Who do you think the audience of this story? |
+|   Emotional Flow   | How was your feeling while view and read this article? |
+|   Data viz effectiveness   | Any data viz that hard to interpret? |
+|   Call to action Clarity   | What do you think the audience would do next? |
+|   Next Improvement   | Any suggestions to improve how the story being told? |
 
 
 Text here!
@@ -33,12 +33,13 @@ Text here!
 
 Text here!
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
+| Questions               | Interview 1 (IT student, mid 20s) | Interview 2 (Lawyer, mid 30s)| Interview 3 (Supply Chain Engineer, late 30s) |
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
-
+| Who do you think the audience of this story? | Policymakers, Individuals, Computer science researchers/ data scientist/ ML engineers|high educated individuals, engineers|             |
+| How was your feeling while view and read this article?| Felt depressed and sad at the beginning. A bit shocked on food wasted potential. At the end felt hopeful since there's solution and people are working to solve this problem|very dark at the beginning but optimistic in the end|             |
+| Any data viz that hard to be interpreted? |'The twist' graph was confusing that one slice of pizza represent how many food and one person icon represent how many people too. But while hovering the cursor it was clear. 'AI' color is not consistent| Asked about the graph of hunger cycle and increased crop production credibility |             |
+| What do you think the audience would do next? | Policymakers: create regulation, Individuals: dont waste food, Data Scientist/ML engineers: apply/ optimize AI to solve this issues | not sure about what is the next steps. The message is not pretty straightforward | |
+| Any suggestions to improve how the story being told? | Breakdown those 3 AI initiatives into bullet points, instead of using narrative/ paragraphs | Give the possible impacts of AI implementation to be more persuasive. Add the source of all data viz to show the credibility | |
 
 # Identified changes for Part III
 > Document the changes you plan on implementing next week to address any issues identified.  
