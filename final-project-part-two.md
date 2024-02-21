@@ -34,18 +34,16 @@ I identified 3 individuals to interview who are a tech student, a professional i
 | Any suggestions to improve how the story being told? | Breakdown those 3 AI initiatives into bullet points, instead of using narrative/ paragraphs | Give the possible impacts of AI implementation to be more persuasive. Add the source of all data viz to show the credibility |Simple video may help to show how AI could play important role to help the farmers as the "producer".. It seems AI will give more benefit only to industrial sector|
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
+Based on the insights from my three interview, here's what I will do on next part III
 
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+| The twist graph is confusing | Adjust the twist graph scales |
+| Hunger Cycle credibility  | Add citation inside the graph |
+| Clear assumption of the AI success graph | Add citation, add title, and input the baseline assumption too in subtitle|
+| Persuasive & clarity of call to action | Breakdown the action list, add the possible impacts/ benefits, embed AI video on farm |
 
-> ...include any final thoughts you have here. 
 
-Text here!
+To summarize, I did my best in wireframing the story from diverse data that I searched. Tie-up them into interesting story is pretty hard for me. I am happy that throughout the interviews some of my messages inside the story are well delivered. Moreover, the interviews do give me a lot of insights from different perspectives to improve my data viz. How I pick my interviews is really matter for me. Some other things that I have ever thought before are comes up to me. I will improve a lot on the next part!
 
