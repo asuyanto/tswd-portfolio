@@ -34,7 +34,7 @@ Text here!
 Text here!
 
 | Questions               | Interview 1 (IT student, mid 20s) | Interview 2 (Lawyer, mid 30s)| Interview 3 (Supply Chain Engineer, late 30s) |
-|-------------------------|--------------------------------|-------------|-------------|
+|-------------------------|--------------------|--------------------|------------------|
 | Who do you think the audience of this story? | Policymakers, Individuals, Computer science researchers/ data scientist/ ML engineers|high educated individuals, engineers|             |
 | How was your feeling while view and read this article?| Felt depressed and sad at the beginning. A bit shocked on food wasted potential. At the end felt hopeful since there's solution and people are working to solve this problem|very dark at the beginning but optimistic in the end|             |
 | Any data viz that hard to be interpreted? |'The twist' graph was confusing that one slice of pizza represent how many food and one person icon represent how many people too. But while hovering the cursor it was clear. 'AI' color is not consistent| Asked about the graph of hunger cycle and increased crop production credibility |             |
