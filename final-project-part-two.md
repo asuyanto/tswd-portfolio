@@ -6,15 +6,13 @@ I did my wireframe on shorthand. Here's the link: https://preview.shorthand.com/
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story.
 
 This topic is about a very basic need of human being which is food. On this era, there is a lot of people suffer hunger and unfortunatly the number is increasing over the last 10 years. I understood that this issue is complex. A lot of people from different segments should collaborate to solve this problem. However, the story that I want to emphasize here is there is a twist which are a lot of people suffer hunger but there is also a lot of wasted food along food supply chain. Therefore, I think it is a good way to fix this stages.
 A new chapter of hope happened that AI was impactful in food supply chain, specifically on-farm stages. This is a good opportunity to extend the success story of AI implementation to the next steps. Therefore, my first targeted audience is technologist. Other things that I considered is the supply chain. AI engineer can develop a model but how the model woul integrate with existing system and how it will optimize the outcome should be discussed with engineers in supply chains. Moreover, supports from policymakers are helpful in aligning this technology with society.
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask.
 
-I identified 3 individuals to interview are an tech student, a professional in supply chain, and a social scientist because I want to know the view from technology feasibility, the implementation in supply chain, and also the social perspectives.
+I identified 3 individuals to interview who are a tech student, a professional in supply chain, and a social scientist because I want to know the view from technology feasibility, the implementation in supply chain, and also the social perspectives.
 
 | Goal | Questions to Ask |
 |------|------------------|
@@ -26,7 +24,6 @@ I identified 3 individuals to interview are an tech student, a professional in s
 
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
 | Questions               | (Tech student, mid 20s) | (Lawyer, mid 30s)| (Supply Chain Engineer, late 30s) |
 |-------------------------|--------------------|--------------------|------------------|
