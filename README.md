@@ -14,13 +14,15 @@ I want to learn how to visualize data effectively through conceptual and practic
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.
 
 ## Assignment: [Visualizing Government Debt](visualizing-government-debt)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
+This is my first assignment in this course. I used the real government data and built my first data viz using tableau.
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
+I learn how to critique of the existing data visualization. Then I learned to re-design the data viz here.
 
 ## Final project
-Here it might be helpful to include a high-level description of your final project. 
+Lastly, I did a data viz final project which started from making outline story, sketching, gathering dataset, inputing them all in public space (shorthand). I log the process on this:
 [Part I](final-project-part-one)
+I also built storyboards and did user research to enrich my data story by inerviewing relevant people. Here's I documented that process: 
 [Part II](final-project-part-two)
+Using those feedbacks from interviews, I adjusted things and made my data story better. Here's my final turn: 
 [Part III](final-project-part-three)
