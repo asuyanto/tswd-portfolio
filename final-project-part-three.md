@@ -9,11 +9,11 @@ Here's my data story on Shorthand:
 > Include few paragraphs that reflects on changes you made since the completion of Part II. 
 
 I did all the suggestions from my interviews and instructor's advices, as follow:
-I enhanced the twist graph with clearer data label and scale
-I added some citations of the hunger graph AI success story on-farm
-I added AI success story on-farm with citation of the research
-I added video of AI on-farm to give clearer visualization
-I brokedown the AI future opportunities 
+I enhanced the twist graph with clearer data label and scale, 
+I added some citations of the hunger graph AI success story on-farm, 
+I added AI success story on-farm with citation of the research, 
+I added video of AI on-farm to give clearer visualization, 
+I brokedown the AI future opportunities, and 
 I added call to action for technologists by giving some options how we can start on the new section 'Get Involved'
 
 ## The audience
